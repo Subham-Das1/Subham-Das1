@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Subham Das</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -7,7 +5,7 @@
 
 - 🌱 I’m currently learning **DSA in Java**
 
-- 💬 Ask me about **HTML, CSS, SQL**
+- 💬 Ask me about **HTML, CSS **
 
 - 📫 How to reach me **subhamdas9908@gmail.com**
 
