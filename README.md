@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DSA in Java and Python**
 
-- 💬 Ask me about **HTML, CSS **
+- 💬 Ask me about **HTML, CSS**
 
 - 📫 How to reach me **subhamdas9908@gmail.com**
 
