@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subham-das1&label=Profile%20views&color=0e75b6&style=flat" alt="subham-das1" /> </p>
 
-- 🌱 I’m currently learning **DSA in Java**
+- 🌱 I’m currently learning **DSA in Java and Python**
 
 - 💬 Ask me about **HTML, CSS **
 
