@@ -10,7 +10,7 @@
 ### 🚀 About Me
 - 🎓 B.Tech CSE Student at **NIT Arunachal Pradesh**
 - 💻 Passionate about **Full Stack Web Development**
-- 🌱 Currently learning **DSA in Java & Python**
+- 🌱 Currently learning **DSA in Java**
 - ⚡ Skilled in building **responsive and scalable web applications**
 - 🔭 Working with **React.js, Node.js, Express.js, MongoDB & MySQL**
 - 🤖 Interested in **Machine Learning & Backend Development**
