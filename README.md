@@ -20,22 +20,30 @@
 
 ### 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/subham-das" target="_blank" style="margin-right: 20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
-    alt="linkedin" width="45" height="45"/>
-  </a>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://linkedin.com/in/subham-das" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+        alt="linkedin" width="45" height="45"/>
+      </a>
+    </td>
 
-  <a href="https://instagram.com/subhamd424" target="_blank" style="margin-right: 20px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
-    alt="instagram" width="45" height="45"/>
-  </a>
+    <td align="center">
+      <a href="https://instagram.com/subhamd424" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+        alt="instagram" width="45" height="45"/>
+      </a>
+    </td>
 
-  <a href="https://github.com/subham-das1" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
-    alt="github" width="45" height="45"/>
-  </a>
-</p>
+    <td align="center">
+      <a href="https://github.com/subham-das1" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+        alt="github" width="45" height="45"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
