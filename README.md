@@ -13,7 +13,7 @@
 - 🌱 Currently learning **DSA in Java**
 - ⚡ Skilled in building **responsive and scalable web applications**
 - 🔭 Working with **React.js, Node.js, Express.js, MongoDB & MySQL**
-- 🤖 Interested in **Machine Learning & Backend Development**
+- 🤖 Interested in **Full Stack Development**
 - 📫 Reach me at **subhamdas9908@gmail.com**
 
 ---
