@@ -19,78 +19,114 @@
 ---
 
 ### 🌐 Connect With Me
-<p align="left">
-<a href="https://linkedin.com/in/subham-das" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-</a>
 
-<a href="https://instagram.com/subhamd424" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
-</a>
-
-<a href="https://github.com/subham-das1" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="40" />
-</a>
+<p align="center">
+  <a href="https://linkedin.com/in/subham-das" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="45" height="45"/>
+  </a>
+  
+  <a href="https://instagram.com/subhamd424" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" width="45" height="45"/>
+  </a>
+  
+  <a href="https://github.com/subham-das1" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="45" height="45"/>
+  </a>
 </p>
 
 ---
 
 ### 🛠️ Languages & Tools
-<p align="left">
 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
-</a>
+<table align="center">
+<tr>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="HTML"/>
+<br>HTML
+</td>
 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>
-</a>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="CSS"/>
+<br>CSS
+</td>
 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="45" height="45"/>
-</a>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/>
+<br>JavaScript
+</td>
 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/>
-</a>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="48" height="48" alt="React"/>
+<br>React
+</td>
+</tr>
 
-<a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/>
-</a>
+<tr>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="48" height="48" alt="NodeJS"/>
+<br>NodeJS
+</td>
 
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="45" height="45"/>
-</a>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="48" height="48" alt="Express"/>
+<br>Express
+</td>
 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
-</a>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="48" height="48" alt="MongoDB"/>
+<br>MongoDB
+</td>
 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/>
-</a>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySQL"/>
+<br>MySQL
+</td>
+</tr>
 
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
-</a>
+<tr>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java"/>
+<br>Java
+</td>
 
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-</a>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
+<br>Python
+</td>
 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
-</a>
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Git"/>
+<br>Git
+</td>
 
-<a href="https://github.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="45" height="45"/>
-</a>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub"/>
+<br>GitHub
+</td>
+</tr>
 
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="45" height="45"/>
-</a>
+<tr>
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48" alt="Tailwind"/>
+<br>Tailwind
+</td>
 
-</p>
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="48" height="48" alt="GCP"/>
+<br>GCP
+</td>
+
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="C"/>
+<br>C
+</td>
+
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code"/>
+<br>VS Code
+</td>
+</tr>
+</table>
 
 ---
 
