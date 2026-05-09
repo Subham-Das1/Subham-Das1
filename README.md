@@ -112,7 +112,7 @@
 ### 🛠️ Tech Stack
 `React.js` `Tailwind CSS` 
 
-🔗 **Live Demo:** 
+🔗 **Live Demo:** https://atulyam2025.vercel.app/
 
 ---
 
