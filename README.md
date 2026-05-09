@@ -14,11 +14,10 @@
 
 ---
 
-<img align="right" alt="Coding" width="360"
-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-hspace="20" vspace="50" />
-
 # 🚀 About Me
+
+<img align="right" alt="Coding" width="340" 
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🎓 B.Tech CSE Graduate from **NIT Arunachal Pradesh**
 - 💻 Passionate about **Full Stack Development & Backend Engineering**
@@ -32,7 +31,7 @@ hspace="20" vspace="50" />
 - 📫 Reach me at: **subhamdas9908@gmail.com**
 - 🌐 Portfolio: **https://portfolio-web-beige-pi.vercel.app/**
 
-<br>
+<br clear="right"/>
 
 ---
 
