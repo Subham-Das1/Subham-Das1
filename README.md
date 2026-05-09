@@ -14,7 +14,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="360" margin-top="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 # 🚀 About Me
 
@@ -128,9 +128,7 @@
 - 🌱 Sustainable Waste Management Use Case
 
 ### 🛠️ Tech Stack
-`Python` `scikit-learn` `CNN` `SVM` `KNN` `REST API`
-
-🔗 **GitHub:** Add Link Here
+`Python` `scikit-learn` `CNN` `SVM` `KNN` 
 
 ---
 
