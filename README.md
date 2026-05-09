@@ -1,36 +1,38 @@
 <h1 align="center">Hi 👋, I'm Subham Das</h1>
 
 <h3 align="center">
-Full Stack Developer • MERN Stack Enthusiast • B.Tech CSE Graduate from India 🇮🇳
+Full Stack Developer • MERN Stack Enthusiast • Software Developer from India 🇮🇳
 </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=subham-das1&label=Profile%20Views&color=0e75b6&style=flat" alt="subham-das1" />
+  
   <img src="https://img.shields.io/github/followers/subham-das1?label=Followers&style=social" alt="followers"/>
+  
+  <img src="https://img.shields.io/github/stars/subham-das1?style=social" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/subham-das1">
-    <img src="https://img.shields.io/github/stars/subham-das1?style=social" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Backend+%26+REST+API+Developer;Machine+Learning+Explorer;Always+Learning+New+Things+🚀" />
 </p>
 
 ---
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-## 🚀 About Me
+# 🚀 About Me
 
 - 🎓 B.Tech CSE Graduate from **NIT Arunachal Pradesh**
-- 💻 Passionate about **Full Stack Web Development & Problem Solving**
+- 💻 Passionate about **Full Stack Development & Backend Engineering**
 - 🌱 Currently improving my skills in **DSA with Java**
-- ⚡ Skilled in building **responsive, scalable & user-friendly web applications**
+- ⚡ Experienced in building **responsive & scalable web applications**
 - 🔭 Working with **React.js, Node.js, Express.js, MongoDB & MySQL**
-- 🤖 Interested in **MERN Stack Development & Backend Systems**
-- 🔥 Love building real-world projects with clean UI/UX
+- 🤖 Interested in **Machine Learning & REST API Development**
+- 🔥 Love creating clean UI/UX with optimized backend systems
+- 🏆 2nd Place Winner at **Hackshristi 2025 Hackathon**
+- 👨‍💻 Web Head at **Addovedi Technical Fest**
 - 📫 Reach me at: **subhamdas9908@gmail.com**
-- 🌐 Portfolio: **Add Your Portfolio Link Here**
-- 📄 Resume: **Add Resume Link Here**
+- 🌐 Portfolio: **https://portfolio-web-beige-pi.vercel.app/**
 
 <br>
 
@@ -62,17 +64,17 @@ Full Stack Developer • MERN Stack Enthusiast • B.Tech CSE Graduate from Indi
 
 <div align="center">
 
-### 💻 Frontend
+### 💻 Frontend Development
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 
-### ⚙️ Backend
+### ⚙️ Backend Development
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 
 ### 🚀 Programming Languages
 <img src="https://skillicons.dev/icons?i=java,python,c" />
 
-### 🧰 Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,gcp,firebase" />
+### ☁️ Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,render,postman,gcp,firebase" />
 
 </div>
 
@@ -80,56 +82,75 @@ Full Stack Developer • MERN Stack Enthusiast • B.Tech CSE Graduate from Indi
 
 # 📌 Highlighted Projects
 
-## 🌍 Green Energy Trading Platform
-> MERN Stack based platform with role-based authentication for Consumers, Sellers & Admins.
+## 📄 Online Documentation System
+> Full Stack document automation portal for managing NOC/LOR applications digitally.
 
-🔹 Features:
-- JWT Authentication & Authorization
-- Dynamic Dashboard
-- Product Management
-- MongoDB Integration
-- Responsive UI
+### 🚀 Features
+- 🔐 JWT Authentication & Secure Login
+- 📑 Dynamic Faculty Approval Workflow
+- 📤 Automated Email Delivery System
+- 🖋️ Digital Signature Integration
+- 📄 Auto-Generated PDF Documents
+- ⚡ Real-Time Status Updates
+- 🗄️ MySQL Database Integration
+- 🌐 RESTful API Backend
 
-🔗 **GitHub:** [Add Project Link Here]
+### 🛠️ Tech Stack
+`HTML` `CSS` `JavaScript` `Node.js` `Express.js` `MySQL` `REST API`
 
----
-
-## 🔥 AI-Powered Fire Detection Vehicle
-> Smart IoT-based fire detection and monitoring vehicle using Raspberry Pi & sensors.
-
-🔹 Features:
-- Flame & Smoke Detection
-- Real-time Monitoring
-- Sensor Integration
-- IoT Communication
-
-🔗 **GitHub:** [Add Project Link Here]
+🔗 **Live Demo:** Add Link Here  
+🔗 **GitHub:** Add Link Here
 
 ---
 
-## 📊 Faculty Management System
-> Full-stack management system with dynamic CRUD operations and secure authentication.
+## 🎉 Atulyam 2025 – Cultural Fest Portal
+> Responsive event management platform developed for the annual cultural fest of NIT Arunachal Pradesh.
 
-🔹 Features:
-- Role-Based Access
-- Auto Record Handling
-- File Upload Support
-- MySQL Database Integration
+### 🚀 Features
+- 📅 Event Listings & Schedules
+- 📝 Event Registration System
+- 📱 Fully Responsive UI Design
+- ⚡ REST API Integration
+- 🎭 Centralized Fest Information Platform
+- 👥 Managed portal for **500+ student attendees**
+- 🎨 Modern UI built using Tailwind CSS
 
-🔗 **GitHub:** [Add Project Link Here]
+### 🛠️ Tech Stack
+`React.js` `Tailwind CSS` `REST API`
+
+🔗 **Live Demo:** Add Link Here  
+🔗 **GitHub:** Add Link Here
 
 ---
 
-# 📈 GitHub Stats
+## ♻️ Waste Classification System
+> Machine Learning based waste classification system developed during internship at NERERL, Guwahati.
+
+### 🚀 Features
+- 🧠 CNN, SVM & KNN Models
+- 📊 Achieved **94.5% Accuracy**
+- ⚡ Real-Time Prediction via REST APIs
+- 🖼️ HOG Feature Extraction & PCA
+- 📈 Confusion Matrix & ROC Evaluation
+- 🌱 Sustainable Waste Management Use Case
+
+### 🛠️ Tech Stack
+`Python` `scikit-learn` `CNN` `SVM` `KNN` `REST API`
+
+🔗 **GitHub:** Add Link Here
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subham-das1&show_icons=true&theme=tokyonight" height="170"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subham-das1&theme=tokyonight" height="170"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=subham-das1&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=subham-das1&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subham-das1&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subham-das1&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -137,15 +158,15 @@ Full Stack Developer • MERN Stack Enthusiast • B.Tech CSE Graduate from Indi
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=subham-das1&theme=tokyonight&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=subham-das1&theme=tokyonight&row=1&column=7&margin-w=10&margin-h=10"/>
 </p>
 
 ---
 
-# ⚡ Activity Graph
+# ⚡ Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subham-das1&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subham-das1&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
