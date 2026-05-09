@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Subham Das</h1>
 
-<h3 align="center">
-Full Stack Developer • MERN Stack Enthusiast • Software Developer from India 🇮🇳
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Backend+%26+REST+API+Developer;Machine+Learning+Explorer;Always+Learning+New+Things+🚀" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=subham-das1&label=Profile%20Views&color=0e75b6&style=flat" alt="subham-das1" />
@@ -10,10 +10,6 @@ Full Stack Developer • MERN Stack Enthusiast • Software Developer from India
   <img src="https://img.shields.io/github/followers/subham-das1?label=Followers&style=social" alt="followers"/>
   
   <img src="https://img.shields.io/github/stars/subham-das1?style=social" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Backend+%26+REST+API+Developer;Machine+Learning+Explorer;Always+Learning+New+Things+🚀" />
 </p>
 
 ---
@@ -74,7 +70,7 @@ Full Stack Developer • MERN Stack Enthusiast • Software Developer from India
 <img src="https://skillicons.dev/icons?i=java,python,c" />
 
 ### ☁️ Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,render,postman,gcp,firebase" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,gcp,firebase" />
 
 </div>
 
@@ -98,8 +94,7 @@ Full Stack Developer • MERN Stack Enthusiast • Software Developer from India
 ### 🛠️ Tech Stack
 `HTML` `CSS` `JavaScript` `Node.js` `Express.js` `MySQL` `REST API`
 
-🔗 **Live Demo:** Add Link Here  
-🔗 **GitHub:** Add Link Here
+🔗 **Live Demo:** 
 
 ---
 
@@ -110,16 +105,14 @@ Full Stack Developer • MERN Stack Enthusiast • Software Developer from India
 - 📅 Event Listings & Schedules
 - 📝 Event Registration System
 - 📱 Fully Responsive UI Design
-- ⚡ REST API Integration
 - 🎭 Centralized Fest Information Platform
 - 👥 Managed portal for **500+ student attendees**
 - 🎨 Modern UI built using Tailwind CSS
 
 ### 🛠️ Tech Stack
-`React.js` `Tailwind CSS` `REST API`
+`React.js` `Tailwind CSS` 
 
-🔗 **Live Demo:** Add Link Here  
-🔗 **GitHub:** Add Link Here
+🔗 **Live Demo:** 
 
 ---
 
