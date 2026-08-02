@@ -29,7 +29,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 - 🏆 2nd Place Winner at **Hackshristi 2025 Hackathon**
 - 👨‍💻 Web Head at **Addovedi Technical Fest**
 - 📫 Reach me at: **subhamdas9908@gmail.com**
-- 🌐 Portfolio: **https://portfolio-web-beige-pi.vercel.app/**
+- 🌐 Portfolio: **https://portfolio-subham-flame.vercel.app/**
 
 <br clear="right"/>
 
