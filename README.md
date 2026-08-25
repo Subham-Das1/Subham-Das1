@@ -97,6 +97,8 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 🔗 **Live Demo:** https://eservices.nitap.ac.in/
 
+🔗 **Live Demo:** https://minor-psi-brown.vercel.app/login.html
+
 ---
 
 ## 🎉 Atulyam 2025 – Cultural Fest Portal
