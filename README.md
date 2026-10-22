@@ -128,6 +128,29 @@ A machine learning-based waste classification project developed during an intern
 
 ---
 
+### 🌱 4. Eco-Vision – AI-Powered Waste Classification System
+
+An AI-powered waste classification web application that identifies waste as Organic or Recyclable using image classification and provides disposal instructions.
+
+**Key Features**
+- 🧠 Deep learning-based image classification using MobileNetV2
+- ♻️ Classification into Organic and Recyclable categories
+- 📸 Image upload and prediction through REST API
+- 📊 92.04% test accuracy
+- ⚡ TensorFlow Lite model optimization
+- 📉 Reduced model size from 9.24 MB to 2.54 MB
+- 💡 Disposal instructions based on predictions
+- 🌐 Deployed frontend and backend services
+
+**Tech Stack:** `React.js` `Tailwind CSS` `Python` `Flask` `TensorFlow` `TensorFlow Lite` `REST API`
+
+**Links:**
+- [GitHub Repository](https://github.com/Subham-Das1/Eco-Vision)
+- [Live Website](https://eco-vision-hyln.vercel.app/)
+- [Backend API](https://eco-vision-fhzz.onrender.com/)
+
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -141,10 +164,12 @@ A machine learning-based waste classification project developed during an intern
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=subham-das1&theme=tokyonight&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub trophies"/>
+  <a href="https://github.com/subham-das1?tab=achievements">
+    <img src="https://img.shields.io/badge/GitHub-View%20Achievements-181717?style=for-the-badge&logo=github" alt="GitHub Achievements"/>
+  </a>
 </p>
 
 ---
@@ -152,7 +177,9 @@ A machine learning-based waste classification project developed during an intern
 ## ⚡ Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subham-das1&theme=tokyo-night&hide_border=true" alt="Contribution graph"/>
+  <a href="https://github.com/subham-das1">
+    <img src="https://img.shields.io/badge/GitHub-View%20Contribution%20Activity-2ea44f?style=for-the-badge&logo=github" alt="GitHub Contribution Activity"/>
+  </a>
 </p>
 
 ---
